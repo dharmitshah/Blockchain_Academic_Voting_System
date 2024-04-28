@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\sheet\\OneDrive\\Documents\\JSOM\\Spring24\\Blockchain Technology\\voting-dapp-group4\\voting-dapp-ethereum-web-main\\hardhat\\contracts\\Voting.sol": {
+      "lastModificationDate": 1713738997067,
+      "contentHash": "baffa8beabe782a899ed3130c50b4006",
+      "sourceName": "contracts/Voting.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.2"
+      ],
+      "artifacts": [
+        "Voting"
+      ]
+    }
+  }
+}
