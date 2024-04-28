@@ -1,0 +1,12 @@
+{
+  "name": "voting-dapp-ethereum-web-main",
+  "version": "1.0.0",
+  "description": "This project involves development of a secure, Ethereum-based decentralized voting system, integrated with a web interface. The goal is to create a system that allows users to interact seamlessly with a blockchain voting platform.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
